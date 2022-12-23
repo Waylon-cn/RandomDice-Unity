@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 023c7aa54b2a5fa42ad14bbfdb66289f, type: 3}
+  m_Name: Player3data
+  m_EditorClassIdentifier: 
+  maxHP: 152
+  currentHP: 45
+  maxINT: 104
+  currentINT: 87
+  maxSQA: 88
+  currentSQA: 100
+  maxPSC: 91
+  currentPSC: 88
+  maxREN: 91
+  currentREN: 97
+  maxSP: 95
+  currentSP: 64
